@@ -22,5 +22,12 @@ and commits it.
 *PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
 
 
+<<<<<<< HEAD
 Ciao a tutte e tutti
 >>>>>>> origin/modifica_sara
+=======
+
+
+
+oggi impariamo a programmare così insegnamo al posto di melis
+>>>>>>> origin/conclusions
